@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bertinoti
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Html, Css, JavaScript, Bootstrap, SQL and Python
-- 💞️ I’m looking to collaborate on everyone
+- 🌱 I’m currently doing a Master in Full Stack Developer. 
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me, by email
 
 <!---
